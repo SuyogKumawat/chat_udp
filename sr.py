@@ -4,10 +4,7 @@ pn=socket.SOCK_DGRAM
 afn=socket.AF_INET
 
 s=socket.socket(afn,pn)
-#ip="192.168.43.40"
-#port=7002
 
-#s.bind( (ip,port) )
 print("                    ----------------------                     ")
 print("--------------------CHAT PROGRAM USING UDP---------------------")
 print("                    ----------------------                     ")
